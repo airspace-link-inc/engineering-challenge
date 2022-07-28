@@ -15,6 +15,8 @@ We have provided a starter web application that has just about everything you ne
 - When you are finished, run `yarn lint` and fix any linting errors that may have been introduced by your code
 - At Airspace Link, we feel strongly about good communication. Make sure to provide a short `README.md` which explains your approach. Pay attention to grammar; good writing will always win us over. You also might include a list of ideas you'd love to tackle if you had infinite time to work on the app.
 
+#### Backend Considerations
+
 If you are applying for the Frontend Developer position, completing the above requirements will suffice. If you are applying for Backend or Full Stack Developer, you may want to tailor the challenge to demonstrate your backend skills. Whether you combine frontend and backend into one challenge is up to you. Here are some backend ideas:
 
 - Spin up a simple API to handle the "Can I Fly?" logic in the language of your choice (Golang preferred, but not required)
